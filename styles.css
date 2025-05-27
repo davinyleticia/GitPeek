@@ -120,7 +120,7 @@ main {
 }
 
 .content-readme{
-    width:1490px;
+    max-width:1490px;
     padding: 0 40px !important;
     background-color: white;
     border-radius: 5px;
