@@ -45,7 +45,7 @@ Este projeto foi criado para ajudar desenvolvedores a visualizar todos os seus r
 
 pode ver como seria o projeto o meu site de projetos
 
-https://projects.vidal.press
+https:/daviny.dev
 
 
 ## 📄 Funcionalidades
